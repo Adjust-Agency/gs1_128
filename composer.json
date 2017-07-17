@@ -1,5 +1,5 @@
 {
-  "name": "ayeo/gs1_barcode",
+  "name": "adjust-agency/gs1_128",
   "version": "1.0",
   "description": "Generate GS1-128 standard barcode",
   "keywords": [
