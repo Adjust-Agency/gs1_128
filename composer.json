@@ -1,6 +1,5 @@
 {
   "name": "adjust-agency/gs1_128_barcode",
-  "version": "1.0",
   "description": "Generate GS1-128 standard barcode",
   "homepage": "https://github.com/Adjust-Agency/gs1_128",
   "keywords": [
