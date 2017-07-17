@@ -81,7 +81,9 @@ Feel free to add or request some. Full list is [here](http://www.databar-barcode
 |12         |PAYMENT DATE  (YYMMDD)                      |6          |6          |
 |15         |BEST BEFORE DATE (YYMMDD)                   |6          |6          |
 |37         |NUMBER OF UNITS CONTAINED                   |1          |8          |
+|255        |GLOBAL COUPON NUMBER (GCN)                  |13         |25         |
 |3301       |CONTAINER GROSS WEIGHT (KG)                 |6          |6          |
+|3900       |AMOUNT PAYABLE (LOCAL CURRENCY)             |1          |15         |
 |3902       |AMOUNT PAYABLE - SINGLE MONETARY AREA       |1          |15         |
 |400        |CUSTOMER PURCHASE ORDER NUMBER              |1          |30         |
 |415        |GLOBAL LOCATION NUMBER OF THE INVOICE PARTY |13         |13         |
